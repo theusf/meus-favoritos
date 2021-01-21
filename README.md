@@ -4,7 +4,7 @@
 `
 ### Create A pagination middleware with Node.js
 
-[Create A pagination middleware with Node.js](https://medium.com/learnfactory-nigeria/create-a-pagination-middleware-with-node-js-fe4ec5dca80f "Create A pagination middleware with Node.js")
+https://medium.com/learnfactory-nigeria/create-a-pagination-middleware-with-node-js-fe4ec5dca80f
 
 ### How to add Swagger UI to existing Node js and Express.js project
 
